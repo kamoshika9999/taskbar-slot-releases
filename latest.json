@@ -1,9 +1,9 @@
 {
     "version":  "1.0.0",
     "tag":  "v1.0.0",
-    "publishedAtUtc":  "2026-11-25T14:38:19Z",
+    "publishedAtUtc":  "2026-11-25T14:48:27Z",
     "installerUrl":  "https://github.com/kamoshika9999/taskbar-slot-releases/releases/download/v1.0.0/TaskbarSlot-Setup-1.0.0-win-x64.exe",
-    "sha256":  "C6FF525F5C78072F5E528C21B521D4619F5CA7C239C589D929B75B6313BDB7A0",
-    "sizeBytes":  48419351,
+    "sha256":  "A07160ECF58BDA0B6024846BE09903B0B00A5E38E28C1E9CE6535F34C34F100F",
+    "sizeBytes":  48420292,
     "notes":  "初回正式リリース v1.0.0：完全無音タスクバー常駐オートスロット、10人のドット絵ヒーロー、全5エリアRPGの旅、7段階コイン装備、演出の強さ調整（既定: 弱）、Windows 11トレイ自動昇格、サイレント自動アップデート対応。"
 }
